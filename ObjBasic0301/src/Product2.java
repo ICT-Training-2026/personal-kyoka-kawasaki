@@ -1,5 +1,3 @@
-
-
 public calss Product2{
 
 }
