@@ -1,4 +1,4 @@
-package defalt;
+package default;
 
 public calss Product3{
 
