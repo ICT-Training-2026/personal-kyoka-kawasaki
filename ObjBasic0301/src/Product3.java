@@ -1,5 +1,5 @@
-package default;
+package .;
 
-public calss Product3{
+public class Product3{
 
 }

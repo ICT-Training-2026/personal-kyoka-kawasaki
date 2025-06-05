@@ -1,5 +1,5 @@
-pckage defalt;
+package default;
 
-public calss Product2{
+public class Product2{
 
 }
